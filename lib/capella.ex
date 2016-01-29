@@ -1,0 +1,2 @@
+defmodule Capella do
+end
